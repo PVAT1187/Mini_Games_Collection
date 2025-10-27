@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pvat2\\source\\Personal Projects\\MiniGamesCollection\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D8656886-2811-4D6E-83C3-7D562A44392A}|MiniGamesCollection\\MiniGamesCollection.vcxproj|C:\\Users\\pvat2\\source\\Personal Projects\\MiniGamesCollection\\MiniGamesCollection\\GameInterface.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D8656886-2811-4D6E-83C3-7D562A44392A}|MiniGamesCollection\\MiniGamesCollection.vcxproj|solutionrelative:MiniGamesCollection\\GameInterface.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8656886-2811-4D6E-83C3-7D562A44392A}|MiniGamesCollection\\MiniGamesCollection.vcxproj|C:\\Users\\pvat2\\source\\Personal Projects\\MiniGamesCollection\\MiniGamesCollection\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D8656886-2811-4D6E-83C3-7D562A44392A}|MiniGamesCollection\\MiniGamesCollection.vcxproj|solutionrelative:MiniGamesCollection\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 202,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameInterface.cpp",
+              "DocumentMoniker": "C:\\Users\\pvat2\\source\\Personal Projects\\MiniGamesCollection\\MiniGamesCollection\\GameInterface.cpp",
+              "RelativeDocumentMoniker": "MiniGamesCollection\\GameInterface.cpp",
+              "ToolTip": "C:\\Users\\pvat2\\source\\Personal Projects\\MiniGamesCollection\\MiniGamesCollection\\GameInterface.cpp",
+              "RelativeToolTip": "MiniGamesCollection\\GameInterface.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-27T18:36:36.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\pvat2\\source\\Personal Projects\\MiniGamesCollection\\MiniGamesCollection\\main.cpp",
+              "RelativeDocumentMoniker": "MiniGamesCollection\\main.cpp",
+              "ToolTip": "C:\\Users\\pvat2\\source\\Personal Projects\\MiniGamesCollection\\MiniGamesCollection\\main.cpp",
+              "RelativeToolTip": "MiniGamesCollection\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-27T17:50:34.884Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
