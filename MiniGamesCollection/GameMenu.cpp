@@ -38,8 +38,12 @@ void displayGameMenu()
 				break;
 			}
 			case 3:
-				cout << "\nThank you for playing!\n";
+			{
+				cout << "\nThank you for playing!";
+				cin.ignore(numeric_limits<streamsize>::max(), '\n');
+				cin.get();
 				break;
+			}
 			default:
 			{
 				cout << "\nInvalid choice. Please select a valid game.\n";
