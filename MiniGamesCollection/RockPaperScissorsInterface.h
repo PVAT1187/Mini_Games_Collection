@@ -10,6 +10,8 @@ class RockPaperScissorsInterface : public GameInterface
 		void displayGameTitle() const override;
 		
 		int promptForPlayerChoice() const;
+		void displayChoices(const Game& game,
+			int playerChoice, int computerChoice) const;
 
 		virtual ~RockPaperScissorsInterface() = default;
 };

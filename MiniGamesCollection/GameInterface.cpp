@@ -4,20 +4,9 @@
 
 using namespace std;
 
-void GameInterface::displayChoices(const Game& game, 
-	int playerChoice, int computerChoice)
-{
-	string playerChoiceStr = game.choiceToString(playerChoice);
-	string computerChoiceStr = game.choiceToString(computerChoice);
-
-	cout << "\nYou chose: " << playerChoiceStr << endl;
-	cout << "Computer chose: " << computerChoiceStr << endl;
-	cout << playerChoiceStr << " vs " << computerChoiceStr << endl;
-}
-
 void GameInterface::displayWinner(Game::Result result) const
 {
-	cout << "The result is: ";
+	cout << "\nThe result is: ";
 	switch (result)
 	{
 		case Game::Result::Tie:
@@ -41,7 +30,7 @@ void GameInterface::displayInvalidChoiceMessage() const
 
 void GameInterface::displayThanksForPlaying()
 {
-	std::cout << "\nThanks for playing!";
+	std::cout << "\nThanks for playing!" << endl;
 	std::cin.ignore(numeric_limits<streamsize>::max(), '\n');
 	std::cin.get();
 }

@@ -125,6 +125,7 @@
   <ItemGroup>
     <ClCompile Include="Game.h" />
     <ClCompile Include="GameInterface.cpp" />
+    <ClCompile Include="GameMenu.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="RockPaperScissors.cpp" />
     <ClCompile Include="RockPaperScissorsInterface.cpp" />
@@ -133,6 +134,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="GameInterface.h" />
+    <ClInclude Include="GameMenu.h" />
     <ClInclude Include="RockPaperScissors.h" />
     <ClInclude Include="RockPaperScissorsInterface.h" />
     <ClInclude Include="TicTacToe.h" />

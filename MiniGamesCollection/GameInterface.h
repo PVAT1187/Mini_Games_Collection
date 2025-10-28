@@ -10,8 +10,6 @@ class GameInterface
 	public:
 		virtual void displayGameTitle() const = 0;
 		void displayWinner(Game::Result result) const;
-		void displayChoices(const Game& game, 
-			int playerChoice, int computerChoice);
 		void displayInvalidChoiceMessage() const;
 		
 		void displayThanksForPlaying();

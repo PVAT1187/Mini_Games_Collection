@@ -4,7 +4,7 @@ using namespace std;
 
 void TicTacToeInterface::displayGameTitle() const
 {
-	cout << "==============================\n";
+	cout << "\n==============================\n";
 	cout << "         Tic Tac Toe\n";
 	cout << "==============================\n";
 	cout << "\nWelcome to the game!\n";
