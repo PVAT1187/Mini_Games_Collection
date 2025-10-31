@@ -6,6 +6,21 @@ shared game logic, and modular project design through two classic games: Tic Tac
 
 ---
 
+# Design Overview
+This project was created to explore how gameplay mechanics can be represented through modular systems and shareable code structures. My goal was to create a simple collection of mini games that share common architecture while maintaining their own unique rules and interactions
+   - Tic Tac Toe: Focused on creating strategic play, managing players turns and game flow
+   - Rock Paper Scissors: Designed for quick, repeatable gameplay with focus on randomness, and player engagement
+   - System Design: Shared base classes handle setup, input validation, and turn management, ensuring scalability for new        games in the future
+
+---
+
+# Design Goals 
+- Explore and gain hands-on experience in gameplay development
+- Practice building systems that separate game logic from presentation (UI)
+- Create a flexible architecture where new games can be added easily
+  
+---
+
 ## How to Build and Run
 ### Windows (Visual Studio)
 1. Clone the repository:
