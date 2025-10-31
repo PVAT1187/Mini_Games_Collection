@@ -1,7 +1,8 @@
 # Mini Games Collection (C++ Console Application)
 
 A simple command-line Mini Games Collection built in C++ using Visual Studio.  
-This project demonstrates object-oriented programming, shared game logic, and modular project design through two classic games: Tic Tac Toe and Rock Paper Scissors.
+This project demonstrates object-oriented programming such as inheritance, polymorphism, encapsulation, along with
+shared game logic, and modular project design through two classic games: Tic Tac Toe and Rock Paper Scissors.
 
 ---
 
