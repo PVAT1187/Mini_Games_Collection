@@ -1,10 +1,11 @@
 ﻿  Game.h
   GameInterface.cpp
   GameMenu.cpp
-  main.cpp
   RockPaperScissors.cpp
   RockPaperScissorsInterface.cpp
   TicTacToe.cpp
   TicTacToeInterface.cpp
+  main.cpp
   Generating Code...
-  MiniGamesCollection.vcxproj -> C:\Users\pvat2\source\Personal Projects\Mini Games Collection\x64\Debug\MiniGamesCollection.exe
+  LINK : C:\Users\pvat2\source\Personal Projects\Mini Games Collection\Mini_Games_Collection\x64\Debug\MiniGamesCollection.exe not found or not built by the last incremental link; performing full link
+  MiniGamesCollection.vcxproj -> C:\Users\pvat2\source\Personal Projects\Mini Games Collection\Mini_Games_Collection\x64\Debug\MiniGamesCollection.exe
