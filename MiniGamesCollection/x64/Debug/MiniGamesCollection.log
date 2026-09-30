@@ -1,2 +1,10 @@
-﻿  GameMenu.cpp
-  MiniGamesCollection.vcxproj -> C:\Users\pvat2\source\Personal Projects\MiniGamesCollection\x64\Debug\MiniGamesCollection.exe
+﻿  Game.h
+  GameInterface.cpp
+  GameMenu.cpp
+  main.cpp
+  RockPaperScissors.cpp
+  RockPaperScissorsInterface.cpp
+  TicTacToe.cpp
+  TicTacToeInterface.cpp
+  Generating Code...
+  MiniGamesCollection.vcxproj -> C:\Users\pvat2\source\Personal Projects\Mini Games Collection\x64\Debug\MiniGamesCollection.exe
