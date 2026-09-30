@@ -64,13 +64,7 @@ This project was created to explore how gameplay mechanics can be represented th
   - Random number generation (for computer choices)
   - Modular project structure
 - IDE/Tools: Visual Studio, Git, GitHub
-
----
-
-## Future Improvements
-- Add AI opponent for Tic Tac Toe
-- Introduce score tracking and statistics
-
+  
 ---
 
 ## Author
