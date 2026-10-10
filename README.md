@@ -7,7 +7,7 @@ A simple command-line Mini Games Collection featuring two classic games: Tic Tac
 ## Design Overview
 The project uses a shared architecture to support multiple games while keeping their rules and interactions separate
    - Tic Tac Toe: Turn management, player interaction, and strategic gameplay
-   - Rock Paper Scissors: Rock Paper Scissors: Randomized outcomes and repeatable gameplay
+   - Rock Paper Scissors: Randomized outcomes and repeatable gameplay
    - System Design: Base classes handle common functionality, including game setup, input validation, and turn management
 
 ---
@@ -29,7 +29,6 @@ The project uses a shared architecture to support multiple games while keeping t
 ## Tech Stack
 - Programming Language: C++
 - IDE: Visual Studio
-- Concepts: Object-Oriented Programming
   
 ---
 
